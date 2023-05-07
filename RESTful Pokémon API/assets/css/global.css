@@ -12,7 +12,7 @@ body {
 .content {
     width: 100vw;
     height: 100vh;
-    padding: 1rem;
+    padding: 1rem; /*Espaçamento baseado no tamanho da fonte */
     background-color: #000000;
 }
 
