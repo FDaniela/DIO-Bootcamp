@@ -1,0 +1,61 @@
+{
+  "title":"[QUIZ] DESCUBRA O PERFIL DE DESENVOLVEDOR QUE MAIS COMBINA COM VOCÊ!",
+  "questions":[
+    {
+      "id":1,
+      "question": "Se você fosse um elemento HTML, qual você seria ?",
+      "options":[
+        {"id": 1, "name":"<div> (porque sou versátil e me encaixo em qualquer lugar!)", "alias":"A"},
+        {"id": 2, "name":"<script> (porque sou bom em manipular coisas nos bastidores!)", "alias":"B"},
+        {"id": 3, "name":"<h1> (porque gosto de ser o centro das atenções!)", "alias":"A"},
+        {"id": 4, "name":"<input> (porque estou sempre pronto para receber e processar informações!)", "alias":"B"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "Se você fosse uma linguagem de programação, qual você seria ?",
+      "options":[
+        {"id": 1, "name":"JavaScript (porque sou versátil e posso ser usado em várias situações!)", "alias":"A"},
+        {"id": 2, "name":"C++ (porque sou poderoso e posso controlar tudo no sistema!)", "alias":"B"},
+        {"id": 3, "name":"Python (porque sou simples e eficiente, facilitando a vida de todos!)", "alias":"B"},
+        {"id":4, "name":"TypeScript (porque sou amigável e gosto de ajudar a detectar erros de forma antecipada!)","alias":"A" },
+        {"id":5, "name":" Angular (porque sou poderoso e estruturado, ajudando a criar aplicações complexas!)","alias":"A"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "Imagine que você está criando um site sobre gatos. Qual seria o toque especial que você adicionaria ?",
+      "options":[
+        {"id": 1, "name":"Implementaria um algoritmo de classificação de raças de gatos com base nas características físicas!", "alias":"B"},
+        {"id": 2, "name":"Animaria as patinhas dos gatos quando o usuário passasse o mouse sobre eles!", "alias":"A"},
+        {"id": 3, "name":"Criaria um efeito de parallax em que os gatos parecem estar se movendo no fundo do site!", "alias":"A"},
+        {"id": 4, "name":"Integraria um chatbot de inteligência artificial que responde a perguntas sobre gatos de forma divertida!", "alias":"B"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "O que você faria se encontrase um bug no código ?",
+      "options":[
+        {"id": 1, "name":" Tentaria encontrar uma solução criativa e visualmente agradável para corrigi-lo!", "alias":"A"},
+        {"id": 2, "name":"Analisaria cuidadosamente o código e depuraria até encontrar a causa do problema!", "alias":"B"},
+        {"id":3, "name":" Colocaria sua capa de super-herói e partiria para a missão de resolver o problema.","alias":"B"},
+        {"id":4, "name":"Ficaria em pânico e correria pela sala gritando \"Code Red! Code Red!\"","alias":"A"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "Se você fosse um emoji, qual você seria ?",
+      "options":[
+        {"id": 1, "name":"😎 (porque adoro dar estilo e personalidade aos projetos!)", "alias":"A"},
+        {"id": 2, "name":"🤓 (porque me divirto resolvendo problemas complexos!)", "alias":"B"},
+        {"id":3, "name":"⚙️ (porque sou habilidoso em desenvolver soluções robustas e eficientes!)", "alias":"B"},
+        {"id":4, "name":"🎨 (porque sou criativo e adoro trabalhar com design visual!)", "alias":"A"},
+        {"id":5, "name":"🔍 (porque tenho habilidade em pesquisar e encontrar soluções técnicas!)", "alias":"B"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "Parabéns! Você é um verdadeiro artista do código! Com seu talento em design e habilidades front-end, você traz vida aos projetos e cria interfaces encantadoras. Sua paixão por detalhes e estilo é evidente em cada linha de código. Continue colorindo o mundo da web com sua criatividade e destreza técnica!",
+    "B": "Parabéns! Você é um verdadeiro mestre da lógica e da tecnologia! Com sua habilidade em resolver problemas complexos e lidar com os bastidores do desenvolvimento, você é uma força silenciosa e indispensável. Sua mente analítica e capacidade de encontrar soluções eficientes fazem de você um valioso integrante da equipe. Continue alimentando os códigos com sua inteligência e engenhosidade!"
+  }
+}
