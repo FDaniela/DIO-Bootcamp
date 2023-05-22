@@ -4,3 +4,6 @@ Este é um projeto gerado com [Angular CLI](https://github.com/angular/angular-c
 
 
 ### Imagem do Projeto:
+
+![Screenshot_20230521_223006](https://github.com/FDaniela/DIO-Bootcamp/assets/102395421/9ed18e3b-d848-445d-849e-dc360d6b6bb9)
+
