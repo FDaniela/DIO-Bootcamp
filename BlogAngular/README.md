@@ -12,3 +12,7 @@ Este é um projeto gerado com [Angular CLI](https://github.com/angular/angular-c
 <p align="center">
 <img src=https://github.com/FDaniela/DIO-Bootcamp/assets/102395421/b2b3b07b-80bf-4285-a5d4-767bb8ed7fe7>
 </p>
+
+### Fontes Externas:
+
+[Online Angular](https://stackblitz.com/edit/angular-zjmfsc?file=src%2Fmain.ts)
